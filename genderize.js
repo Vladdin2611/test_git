@@ -45,3 +45,5 @@ function addGender() {
 // 	RESULT.textContent = `${firstName} is ${testPromise.gender}
 // 	with probability ${testPromise.probability}`
 // }
+
+console.log('test');
