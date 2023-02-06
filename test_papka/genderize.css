@@ -1,0 +1,14 @@
+body{
+	background-color: #555;
+}
+textarea, input{
+	background-color: #666;
+	color: #999;
+}
+button{
+	background-color: #777;
+}
+input::placeholder{
+	color: #999;
+
+}
